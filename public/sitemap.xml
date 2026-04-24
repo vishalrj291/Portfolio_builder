@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/generate</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/Resume.pdf</loc>
+  <lastmod>2025-12-04T00:59:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/preview/classic</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/preview/modern</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/preview/creative</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/preview/corporate</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/preview/minimalist</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/preview/tech</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/dashboard</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/privacy-policy</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/terms-of-service</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://auto-portfolio-ufmx.vercel.app/resume/sample</loc>
+  <lastmod>2025-12-04T00:59:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
