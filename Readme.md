@@ -1,6 +1,6 @@
-# AutoPortfolio - Instant Portfolio Generator
+# Portfolio_builder - Instant Portfolio Generator
 
-AutoPortfolio is a web application that allows users to instantly create a stunning, professional-looking portfolio website. No coding required. Just fill in your details, choose a template, and get a shareable link to your live portfolio.
+ Portfolio_builder is a web application that allows users to instantly create a stunning, professional-looking portfolio website. No coding required. Just fill in your details, choose a template, and get a shareable link to your live portfolio.
 
 **Live Demo:** [https://auto-portfolio-ufmx.vercel.app/](https://auto-portfolio-ufmx.vercel.app/)
 
@@ -48,7 +48,7 @@ To run this project on your local machine, follow these steps.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rajpratham1/AutoPortfolio.git
+git clone https://github.com/vishalrj291/Portfolio_builder.git
 cd AutoPortfolio/auto-portfolio
 ```
 
