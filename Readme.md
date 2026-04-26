@@ -1,8 +1,8 @@
+## Portfolio_builder - Instant Portfolio Generator
 
-Portfolio_builder - Instant Portfolio Generator
 Portfolio_builder is a web application that allows users to instantly create a stunning, professional-looking portfolio website. No coding required. Just fill in your details, choose a template, and get a shareable link to your live portfolio.
 
-Features
+## Features
 Multiple Templates: Choose from a variety of modern, professionally designed templates.
 Easy Customization: An intuitive editor makes it simple to add your projects, skills, and contact information.
 Instant Deployment: Your portfolio is live and ready to share the moment you hit "publish".
@@ -49,13 +49,16 @@ NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET="YOUR_STORAGE_BUCKET"
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="YOUR_MESSAGING_SENDER_ID"
 NEXT_PUBLIC_FIREBASE_APP_ID="YOUR_APP_ID"
 4. Run the Development Server
+
 npm run dev
 Open http://localhost:3000 with your browser to see the result.
 
 Deployment
+
 This project is optimized for deployment on Vercel.
 
-Vercel Deployment Guide
+## Vercel Deployment Guide
+
 Fork this repository to your own GitHub account.
 Create a new project on Vercel and import your forked repository.
 Configure the Project Settings:
@@ -67,4 +70,5 @@ Add all the NEXT_PUBLIC_ variables that you have in your .env.local file (e.g., 
 Deploy: Vercel will automatically trigger a deployment. After it's complete, your site will be live.
 Any subsequent push to the main branch of your repository will automatically trigger a new deployment on Vercel.
 
-Deployment Link https://auto-portfolio-ufmx.vercel.app/
+## Deployment Link
+https://auto-portfolio-ufmx.vercel.app/
