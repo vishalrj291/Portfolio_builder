@@ -2,7 +2,6 @@
 
  Portfolio_builder is a web application that allows users to instantly create a stunning, professional-looking portfolio website. No coding required. Just fill in your details, choose a template, and get a shareable link to your live portfolio.
 
-**Live Demo:** [https://auto-portfolio-ufmx.vercel.app/](https://auto-portfolio-ufmx.vercel.app/)
 
 ## Features
 
@@ -99,6 +98,6 @@ This project is optimized for deployment on [Vercel](https://vercel.com/).
 
 Any subsequent push to the `main` branch of your repository will automatically trigger a new deployment on Vercel.
 
-## License
+Deployment Link
+https://auto-portfolio-ufmx.vercel.app/
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
