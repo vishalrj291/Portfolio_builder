@@ -1,6 +1,6 @@
-# AutoPortfolio - Instant Portfolio Generator
+# Portfolio_builder - Instant Portfolio Generator
 
-AutoPortfolio is a web application that allows users to instantly create a stunning, professional-looking portfolio website. No coding required. Just fill in your details, choose a template, and get a shareable link to your live portfolio.
+Portfolio_builder is a web application that allows users to instantly create a stunning, professional-looking portfolio website. No coding required. Just fill in your details, choose a template, and get a shareable link to your live portfolio.
 
 **Live Demo:** [https://auto-portfolio-ufmx.vercel.app/](https://auto-portfolio-ufmx.vercel.app/)
 
