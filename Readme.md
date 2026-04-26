@@ -14,9 +14,10 @@ UI Library: React
 Styling: Tailwind CSS
 Backend & Database: Firebase (Authentication, Firestore, Storage)
 Deployment: Vercel
-Project Structure
-The project follows a standard Next.js App Router structure.
 
+## Project Structure
+The project follows a standard Next.js App Router structure.
+--
 /
 ├── public/         # Static assets (images, fonts, etc.)
 ├── src/
@@ -26,10 +27,13 @@ The project follows a standard Next.js App Router structure.
 ├── .env.local      # Environment variables (local)
 ├── next.config.mjs # Next.js configuration
 └── package.json    # Project dependencies and scripts
-Getting Started
+--
+
+## Getting Started
+
 To run this project on your local machine, follow these steps.
 
-Prerequisites
+## Prerequisites
 Node.js (v18 or later)
 npm
 1. Clone the Repository
@@ -43,17 +47,24 @@ Create a file named .env.local in the auto-portfolio directory. This file will h
 Copy the following content into your .env.local file and replace the placeholder values with your actual Firebase credentials. You can find these in your Firebase project settings.
 
 NEXT_PUBLIC_FIREBASE_API_KEY="YOUR_API_KEY"
+--
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="YOUR_AUTH_DOMAIN"
+--
 NEXT_PUBLIC_FIREBASE_PROJECT_ID="YOUR_PROJECT_ID"
+--
 NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET="YOUR_STORAGE_BUCKET"
+--
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="YOUR_MESSAGING_SENDER_ID"
+--
 NEXT_PUBLIC_FIREBASE_APP_ID="YOUR_APP_ID"
+--
 4. Run the Development Server
 
 npm run dev
+--
 Open http://localhost:3000 with your browser to see the result.
 
-Deployment
+## Deployment
 
 This project is optimized for deployment on Vercel.
 
