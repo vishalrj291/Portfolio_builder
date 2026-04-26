@@ -48,8 +48,8 @@ To run this project on your local machine, follow these steps.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rajpratham1/AutoPortfolio.git
-cd AutoPortfolio/auto-portfolio
+git clone https://github.com/vishalrj291/Portfolio_builder.git
+
 ```
 
 ### 2. Install Dependencies
@@ -60,7 +60,7 @@ npm install
 
 ### 3. Set Up Environment Variables
 
-Create a file named `.env.local` in the `auto-portfolio` directory. This file will hold your Firebase project credentials.
+Create a file named `.env.local` in the `Portfolio_builder` directory. This file will hold your Firebase project credentials.
 
 Copy the following content into your `.env.local` file and replace the placeholder values with your actual Firebase credentials. You can find these in your Firebase project settings.
 
@@ -91,7 +91,7 @@ This project is optimized for deployment on [Vercel](https://vercel.com/).
 2.  **Create a new project on Vercel** and import your forked repository.
 3.  **Configure the Project Settings:**
     -   **Framework Preset:** Vercel should automatically detect it as `Next.js`.
-    -   **Root Directory:** If you cloned the entire repository, set the root directory to `auto-portfolio`.
+    -   **Root Directory:** If you cloned the entire repository, set the root directory to `Portfolio_builder`.
 4.  **Set Up Environment Variables on Vercel:**
     -   In your Vercel project dashboard, go to **Settings > Environment Variables**.
     -   Add all the `NEXT_PUBLIC_` variables that you have in your `.env.local` file (e.g., `NEXT_PUBLIC_FIREBASE_API_KEY`, `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN`, etc.) with their corresponding values.
@@ -99,6 +99,4 @@ This project is optimized for deployment on [Vercel](https://vercel.com/).
 
 Any subsequent push to the `main` branch of your repository will automatically trigger a new deployment on Vercel.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
